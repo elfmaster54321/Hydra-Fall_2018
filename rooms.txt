@@ -1,0 +1,218 @@
+FORMAT
+RM#
+RMdesc
+RMname
+MonsterID
+ItemID
+PuzzleID
+
+
+RM01
+Jungle Ferry
+You have entered the Jungle to go after your spouse! There is a trail of blood that leads to a clue/puzzle that the kidnappers or your spouse seemed to have dropped.
+/
+BA448
+PZ02
+
+RM02
+The Snake Keeper
+You see open cages and you wonder, where did the Snake Keeper go?
+SNK78
+/
+PZ09
+
+RM03
+Lake Finder
+This room contains a lake filled with clean water for consumption. 
+/
+H2O82
+PZ05
+
+RM04
+The Tree of Faith
+There is a tree with some delicious looking fruits. You examine foot prints that leads you to another room.
+/
+WLG18
+/
+
+RM05
+Land of the Tiger
+This room seems to be a very large cat's home.
+TIG01
+BA448
+/
+
+RM06
+Swampy Ditch
+There is a ditch beside you.
+/
+/
+PZ01
+
+RM07
+Treasure Room
+In this empty room, all you see is a golden treasure chest.
+/
+CUT89
+/
+
+RM08
+Trap Room
+This room seems very suspicious.
+/
+/
+/
+
+RM09
+Bee's Highland
+You see several large bee hives around the room.
+BE755
+BLKT77
+/
+
+RM10
+Marsh Pit
+As you enter the room the door behind you is locked and scorpions are released. Solving the puzzle will unlock the door.
+SCR93
+POR78
+PZ10
+
+RM11
+The Path Less Traveled
+This path seems to be overgrown since noone goes on it.
+/
+ST45 GUN78
+/
+
+RM12
+Stone Mountain
+There appears to be a hill one can climb if they have enough strength.
+/
+WAR784
+/
+
+RM13
+Distraction Highland
+You can see that there are many ornate decorations around the room.
+CHE87 ERE31
+WLG18
+PZ03 PZ07 PZ06
+
+RM14
+Treasure Storage
+This room houses details of kidnapped fellows in the jungle. There is also a photo of your spouse with a note on the back saying "I am alive - keep looking.."
+TIG01
+/
+PZ04
+
+RM15
+Spike Room
+You will see soon why this room is called Spike Room.
+/
+/
+/
+
+RM16
+Despondency Dungeon
+You sense that this room is very close to your spouse. Which means that danger is very close as well.
+SCR93
+/
+PZ4 PZ6
+
+RM17
+The Ancient Knife
+This room seems to hold a knife with a long history behind it.
+SNK78
+/
+PZ11
+
+RM18
+Jungle Locomotive
+This room has a locomotive that one can use to transport to any room except last room, once they solve the puzzle.
+/
+/
+PZ10
+
+RM19
+Farmland of Plenty
+This farmland produces and stores all food that people eat in the jungle.
+TIM76
+/
+/
+
+RM20
+The Camp
+This man fights for Jack the Overlord
+SOD04
+/
+PZ03
+
+RM21
+Lala Land
+This room contains a blanket one can use to take a quick siesta.
+/
+BLKT77
+/
+
+RM22
+Never Alone
+You find a clue that your spouse leaves to help you find her.
+/
+/
+PZ12
+
+RM23
+Hidden Falls
+This room is constantly wet from the hidden water fall above the room.
+/
+/
+/
+
+RM24
+Little Furry
+This room will give
+HOM32
+/
+/
+ 
+RM25
+The Shop Owner
+This room is where you finally meet the greedy shop owner that sells you stuff.
+/
+/
+/
+
+RM26
+No Escape
+There is no going back, Only forward.
+/
+/
+/
+
+RM27
+Unknown
+This room is really dark and you can't go back to the previous room.
+BE775
+/
+/
+
+RM28
+Escape
+There is nothing but an entrance to a slide here.
+/
+POR78
+/
+
+RM29
+Bridge
+An old bridge on the verge of collapse
+/
+POR78
+/
+
+RM30
+Boss Room
+Fight the boss to finally save your wife.
+JAC23
+/
+/
